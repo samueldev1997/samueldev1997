@@ -12,7 +12,7 @@
     <li>🚀 No momento, tenho focado minhas energias em ter uma base sólida em JavaScript, para assim,
         partir para algum framework e continuar dando sequência até chegar no Backend.</li> <br>
     <li>🌱 Sou uma pessoa apaixonada por corrida 🏃🏾 e um amante incondicional de música indie rock/indie pop. </li> <br>
-    <li>💻 Estou em busca de uma oportunidade em Desenvolvimento Web.</li>
+    <li>💻 Estou em busca da minha primeira oportunidade em Desenvolvimento Web.</li>
 </ul> <br>
 
 
