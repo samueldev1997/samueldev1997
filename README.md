@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou o Samuel 🖐🏽</h1>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/samuelj_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-jonas-490476275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
@@ -10,7 +9,7 @@
 <ul>
     <li>🧑🏾‍💻 Atualmente estou estudando Desenvolvimento Front-end através de cursos e projetos pessoais - Mas, meu maior objetivo é me tornar um Desenvolvedor FullStack. </li> <br>
     <li>🚀 No momento, tenho focado minhas energias em ter uma base sólida no Frontend, para assim,  continuar dando sequência nos estudos até chegar no Backend.</li> <br>
-    <li>🌱 Sou uma pessoa apaixonada por corrida 🏃🏾 e um amante incondicional de música indie rock/indie pop e Psytrance. </li> <br>
+    <li>🌱 Sou uma pessoa apaixonada por corrida 🏃🏾 e um amante incondicional de música indie rock/indie pop. </li> <br>
     <li>💻 Estou em busca da minha primeira oportunidade em Desenvolvimento Web.</li>
 </ul> <br>
 
