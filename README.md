@@ -7,10 +7,9 @@
 <h2> 💁🏾 Sobre Mim </h2>
 
 <ul>
-    <li>🧑🏾‍💻 Atualmente estou estudando Desenvolvimento Front-end através de cursos e projetos pessoais - Mas, meu maior objetivo é me tornar um Desenvolvedor FullStack. </li> <br>
-    <li>🚀 No momento, tenho focado minhas energias em ter uma base sólida no Frontend, para assim,  continuar dando sequência nos estudos até chegar no Backend.</li> <br>
-    <li>🌱 Sou uma pessoa apaixonada por corrida 🏃🏾 e um amante incondicional de música indie rock/indie pop. </li> <br>
-    <li>💻 Estou em busca da minha primeira oportunidade em Desenvolvimento Web.</li>
+    <li>🧑🏾‍💻 Atualmente estou estudando Desenvolvimento Web através de cursos e projetos pessoais - Mas, meu maior objetivo é me tornar um Desenvolvedor FullStack. </li> <br>
+    <li>🌱 Sou uma pessoa apaixonada por corrida 🏃🏾 e um amante incondicional de música indie rock/indie pop e PsyTrance. </li> <br>
+    <li>💻 Atualmente, trabalho como desenvolvedor Web, utilizando PHP, Laravel e MySQL para criar soluções robustas e eficientes.</li>
 </ul> <br>
 
 
