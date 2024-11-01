@@ -7,7 +7,7 @@
 <h2> 💁🏾 Sobre Mim </h2>
 
 <ul>
-    <li>🧑🏾‍💻 Atualmente estou estudando Desenvolvimento Web através de cursos e projetos pessoais - Mas, meu maior objetivo é me tornar um Desenvolvedor FullStack. </li> <br>
+    <li>🧑🏾‍💻 Estudo desenvolvimento Web através de cursos e projetos pessoais. </li> <br>
     <li>🌱 Sou uma pessoa apaixonada por corrida 🏃🏾 e um amante incondicional de música indie rock/indie pop e PsyTrance. </li> <br>
     <li>💻 Atualmente, trabalho como desenvolvedor Web, utilizando PHP, Laravel e MySQL para criar soluções robustas e eficientes.</li>
 </ul> <br>
